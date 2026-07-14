@@ -2,7 +2,7 @@
 
 Engineering Manager with 20+ years building AI platforms, cloud-native systems, and distributed infrastructure at scale — across fintech, retail-tech, and SaaS.
 
-Currently at **Tesco** leading a cross-functional team delivering AI-powered simulation and decision support platforms that generated **£10M in business savings**.
+Currently at **Tesco** leading a cross-functional team delivering AI-powered simulation and decision support platforms that generated **multi million pounds in business savings**.
 
 ---
 
