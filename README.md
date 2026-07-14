@@ -38,7 +38,7 @@ Complex requests  → Opus    ($25/M tokens)
 
 | Company | Role | Impact |
 |---------|------|--------|
-| **Tesco** | Software Development Manager | £10M savings · 30% support reduction via agentic AI |
+| **Tesco** | Software Development Manager | Multi Million Pounds savings · 30% support reduction via agentic AI |
 | **JP Morgan Chase** | VP Digital Payments | $100M+/day · 80M customers · 99.99% uptime |
 | **Intuit** | Senior Manager, Mint Platform | 50M users migrated · ~$100K/month infra savings |
 | **Bukuwarung** | Tech Lead Manager | Resolution time days → minutes · 7M+ users |
